@@ -4,7 +4,11 @@
 
 #### 2 - to download darknet to apply yolov4 tiny => https://github.com/AlexeyAB/darknet
 
+#### 4 - used https://makesense.ai for labelling images
+
 #### 3 - video_detector.py and photo_detector.py => run to detects on video and image
+
+
 
 #### !!! to build fast I used tiny version of YOLOv4. However, if we use yolov4 and download more images -
 #### our model has will greater accuracy.
