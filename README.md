@@ -7,6 +7,6 @@
 #### 3 - video_detector.py and photo_detector.py => run to detects on video and image
 
 #### !!! to build fast I used tiny version of YOLOv4. However, if we use yolov4 and download more images -
-#### our model has greater accuracy.
+#### our model has will greater accuracy.
 
 ![](predictions.jpg)
